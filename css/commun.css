@@ -24,3 +24,22 @@ body {
     height: auto;
     padding-top: 5px;
 }
+
+.footer-area {
+    text-align: center;
+    padding-bottom: 24px;
+    padding-top: 24px;
+    background-color: #d5d5d5;
+}
+
+.footer-area a{
+    margin-left: 10px;
+    margin-right: 10px;
+    color: #333333;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.footer-area a:hover{
+    text-decoration: underline;
+}
